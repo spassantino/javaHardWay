@@ -34,7 +34,7 @@ public class RudeQuestions {
         System.out.print( "Well, thanks for answering my rude questions. " );
         System.out.println( name + "." );
         //The program does not blow up from typing an integer when expecting a double because integers can also be doubles.;
-        //The program does not blow up from typing a numeric value when expecting a String and I don't understand why.;
+        //The program does not blow up from typing a numeric value when expecting a String because numbers can also be strings.;
         //I blew up the program on every question for answering with Trend Setter.;
     }
 }
