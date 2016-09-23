@@ -24,7 +24,7 @@
                public static void print29Colons() {
                    out.println( "|:::::::::::::::::::::::::::::|" );
                }
-
+               
                public static void printPledge() {
                    out.println( "I pledge allegiance to the flag." );
                }
